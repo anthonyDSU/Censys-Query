@@ -8,4 +8,4 @@ The following script does just that, crawls the search links and outputs the ips
 
 The following list of IP addresses have some type of signature to google.com, whether that’s through web response via body content, ftp or ssh banner, and more.
 
-# ./subdomains.sh google.com
+./subdomains.sh google.com
